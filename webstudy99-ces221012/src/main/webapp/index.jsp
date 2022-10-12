@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class = "container pt-3">
-index 채은서
+index 채은서 아이유
 </div>
 </body>
 </html>
